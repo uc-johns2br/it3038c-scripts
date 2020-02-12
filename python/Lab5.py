@@ -21,11 +21,11 @@ while not word.isalpha():
 length = len(word)
 
 #Count vowels and consonants
-for l in length:
+for l in range (0, length):
     if word[l] in consonants:
-        numOfConsonants =+ 1
+        numOfConsonants += 1
     else:
-        numOfVowels =+ 1
+        numOfVowels += 1
 ##endloop
 
-print ("%s has %s letters, %s consonants, and %s vowels."% (word, length, numOfConsonants, numOfVowels))
+print ("%s has %s letters; %s consonants and %s vowels."% (word, length, numOfConsonants, numOfVowels))
