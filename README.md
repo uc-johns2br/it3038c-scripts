@@ -13,7 +13,7 @@ This is a script to create a series of numbered folders from a prefix, with the 
 
 
 
-Lab5
+Lab 5
 ======
 
 This script counts letters, consonants, and vowels (A, E, I, O, & U) in a word.
