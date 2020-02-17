@@ -1,8 +1,7 @@
 #Script to count letters, vowels, and consonants in a word.
 
 #definitions
-vowels = 'aeiou'
-consonants = 'bcdfghjklmnpqrstvwxyz'
+consonants = 'bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ'
 numOfVowels = int(0)
 numOfConsonants = int(0)
 
