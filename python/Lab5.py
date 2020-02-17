@@ -1,7 +1,7 @@
 #Script to count letters, vowels, and consonants in a word.
 
 #definitions
-consonants = 'bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ'
+vowels = 'aeiouAEIOU'
 numOfVowels = int(0)
 numOfConsonants = int(0)
 
@@ -15,16 +15,14 @@ while not word.isalpha():
     word = input()
 ##endloop
 
-
-
 #Count vowels and consonants
 length = len(word)
 
 for l in range (0, length):
-    if word[l] in consonants:
-        numOfConsonants += 1
-    else:
+    if word[l] in vowels:
         numOfVowels += 1
+    else:
+        numOfConsonants += 1
 ##endloop
 
 #Print output
