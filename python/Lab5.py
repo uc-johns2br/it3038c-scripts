@@ -18,9 +18,11 @@ while not word.isalpha():
     word = input()
 ##endloop
 
-length = len(word)
+
 
 #Count vowels and consonants
+length = len(word)
+
 for l in range (0, length):
     if word[l] in consonants:
         numOfConsonants += 1
@@ -28,4 +30,5 @@ for l in range (0, length):
         numOfVowels += 1
 ##endloop
 
+#Print output
 print ("%s has %s letters; %s consonants and %s vowels."% (word, length, numOfConsonants, numOfVowels))
