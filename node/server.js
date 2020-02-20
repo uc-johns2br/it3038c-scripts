@@ -22,7 +22,7 @@ http.createServer(function(req, res){
                 <title>System Info</title>
             </head>
             <body>
-                <p>
+                <p>Hostname: ${myHostname}</p>
         `
     }
     
