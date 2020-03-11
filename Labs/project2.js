@@ -1,4 +1,4 @@
-//This is a script to display a log file when the server is contacted
+//This is a script to display a log file when the link for it is clicked on the main index page
 var http = require("http"); 
 var fs = require("fs");
 
@@ -10,9 +10,9 @@ var server = http.createServer(function(req, res){
         });
     }
 
-    else if(req.url.match("/showlog")){
-        fs.readFile("c:/logs/rando.log","UTF-8")
-        res.writeHead(200, {"Content-Type":"text/html"});
+    else if(req.url.match("/public/rando.log")){
+        fs.readFile("./public/rando.log","UTF-8")
+        res.writeHead(200, {"Content-Type":"text/plain"});
         res.end(html);
     }
 
