@@ -1,3 +1,10 @@
+Project 2
+=========
+
+This is a script to display a log file to a web page.
+
+
+
 My App
 ======
 
