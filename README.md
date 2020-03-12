@@ -10,7 +10,11 @@ Copy the files to disk, maintaining the hierarchy<br>
 <br>
 Run the script from a powershell script using the following command from the directory containing project2.js:<br>
 <br>
-node project2.js $lt enter &gt
+node project2.js &lt;enter&gt;<br>
+<br>
+This will create a server accessible from a web browser at http://localhost:3000/public/rando.log<br>
+<br>
+Click the "Show Log" link to view the log file.
 
 My App
 ======
