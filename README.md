@@ -2,7 +2,6 @@ Project 2
 =========
 
 This is a script to display a log file to a web page.<br>
-<br>
 <ul>
 <li>This is the path for the script: ./Labs/project2.js</li>
 <li>This is the path for index.html and the log file to be displayed (rando.log): ./Labs/public/</li>
