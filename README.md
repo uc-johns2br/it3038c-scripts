@@ -11,7 +11,7 @@ This is a script to display a log file to a web page.<br>
 <li>Copy the files to disk, maintaining the hierarchy</li>
 <li>Run the script from powershell using the following command from the directory containing project2.js:<br>
 <b>node project2.js &lt;enter&gt;</b></li>
-<li>This will create a server accessible from a web browser at http://localhost:3000/public/rando.log</li>
+<li>This will create a server accessible from a web browser at <a href=>http://localhost:3000/public/rando.log</a></li>
 <li>Click the "Show Log" link to view the log file.</li>
 </ol>
 
