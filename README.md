@@ -3,18 +3,18 @@ Project 2
 
 This is a script to display a log file to a web page.<br>
 <br>
-This is the path for the script: ./Labs/project2.js<br>
-This is the path for index.html and the log file to be displayed (rando.log): ./Labs/public/<br>
+<ul>
+<li>This is the path for the script: ./Labs/project2.js</li>
+<li>This is the path for index.html and the log file to be displayed (rando.log): ./Labs/public/</li>
+</ul>
 
-Copy the files to disk, maintaining the hierarchy<br>
-<br>
-Run the script from a powershell script using the following command from the directory containing project2.js:<br>
-<br>
-node project2.js &lt;enter&gt;<br>
-<br>
-This will create a server accessible from a web browser at http://localhost:3000/public/rando.log<br>
-<br>
-Click the "Show Log" link to view the log file.
+<ol>
+<li>Copy the files to disk, maintaining the hierarchy</li>
+<li>Run the script from powershell using the following command from the directory containing project2.js:
+node project2.js &lt;enter&gt;</li>
+<li>This will create a server accessible from a web browser at http://localhost:3000/public/rando.log</li>
+<li>Click the "Show Log" link to view the log file.</li>
+</ol>
 
 My App
 ======
