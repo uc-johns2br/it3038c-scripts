@@ -1,3 +1,8 @@
+Lab 8
+=====
+This script is a webscraper that pulls the current temp, weather, and forecast for their page corresponding to my zip code.
+
+
 Project 2
 =========
 
