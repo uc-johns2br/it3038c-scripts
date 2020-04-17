@@ -1,3 +1,24 @@
+Lab 7
+=====
+
+This script uses the docx2python module, which extracts properties and content from a .docx file to python objects.
+
+<ul>
+    <li>This is the path for the script: ./Labs/lab7.py</li>
+    <li>This is the path for the .docx file that the script parses: ./Labs/Lab7.docx</li>
+</ul>
+
+<ol>
+    <li>Copy the files to disk, maintaining the hierarchy</li>
+    <li>Open powershell and install docx2python with the following command:<br>
+        <b>pip install docx2python</b></li>
+    <li>Run the script from powershell using the following command from the directory containing lab7.py:<br>
+        <b>python lab7.py &lt;enter&gt;</b></li>
+    <li>Press enter to continue through the script when prompted</a></li>
+</ol>
+
+
+
 Lab 8
 =====
 This script is a webscraper that pulls the current temp, weather, and forecast for their page corresponding to my zip code.
