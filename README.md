@@ -17,7 +17,7 @@ This script uses the docx2python module, which extracts properties and content f
 <ol>
     <li>Copy the files to disk, maintaining the hierarchy</li>
     <li>Open powershell and install docx2python with the following command:<br>
-        <b>pip install docx2python</b></li>
+        <b>pip install docx2python &lt;enter&gt;</b></li>
     <li>Run the script from powershell using the following command from the directory containing lab7.py:<br>
         <b>python lab7.py &lt;enter&gt;</b></li>
     <li>Press enter to continue through the script when prompted</a></li>
