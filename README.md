@@ -1,7 +1,7 @@
 Lab 11 Extra Credit
 ===================
 
-Files for the lab aare located here
+Files for the lab aare located here: <a href="./python/">
 
 
 Lab 7
