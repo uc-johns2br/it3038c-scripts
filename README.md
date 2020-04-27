@@ -10,8 +10,8 @@ Lab 7
 This script uses the docx2python module, which extracts properties and content from a .docx file to python objects.
 
 <ul>
-    <li>This is the path for the script: ./Labs/lab7.py</li>
-    <li>This is the path for the .docx file that the script parses: ./Labs/Lab7.docx</li>
+    <li>This is the path for the script: <a href="/Labs/lab7.py">/Labs/lab7.py</a></li>
+    <li>This is the path for the .docx file that the script parses: <a href="/Labs/Lab7.docx">/Labs/Lab7.docx</a></li>
 </ul>
 
 <ol>
