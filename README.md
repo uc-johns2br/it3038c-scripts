@@ -1,7 +1,7 @@
 Lab 11 Extra Credit
 ===================
 
-Files for the lab aare located here: <a href="https://github.com/uc-johns2br/it3038c-scripts/edit/master/README.md">
+Files for the lab aare located here: <a href="https://github.com/uc-johns2br/it3038c-scripts/tree/master/python">
 
 
 Lab 7
