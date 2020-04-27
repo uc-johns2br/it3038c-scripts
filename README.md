@@ -1,7 +1,7 @@
 Lab 11 Extra Credit
 ===================
 
-Files for the lab are located here: <a href="/python">./python</a>
+Files for the lab are located here: <a href="/python">/python</a>
 
 
 Lab 7
