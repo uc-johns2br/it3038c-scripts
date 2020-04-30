@@ -1,3 +1,11 @@
+Project 3
+=========
+This is a python script to print the last five statuses (tweets or retweets, generally) of a specified Twitter user.
+
+My originAl idea was To create a script that logged all activity from a user, including deletes, etc. But this required webhooks, and I am not familiar with them.
+
+The script can be downloaded and run from anywhere, but you must first get from Twitter your consumer key, consumer secret, access token key, and access secret. Then place these in environment variables labeled "API_ConsumerKey", "API_ConsumerSecret", "API_AccessTokenKey", and "API_AccessTokenSecret" (without quotes). You may need to resart your shell/terminal if you opened it before you created/edited the environment variables.
+
 Lab 11 Extra Credit
 ===================
 
